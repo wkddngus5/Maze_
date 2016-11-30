@@ -12,7 +12,7 @@ public class StrategyBy8 implements INavigateStrategy{
 		
 		int nowX=navigator.x;
 		int nowY=navigator.y;
-		maze.mazeModel[nowX][nowY]=2;
+		maze.mazeModel[nowX][nowY]=2; 
 		if(nowX==8 && nowY==8){
 			System.out.println("이동 횟수: "+count);
 			maze.drawMaze();
