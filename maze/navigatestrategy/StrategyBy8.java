@@ -1,4 +1,4 @@
-package navigatestrategy;
+package maze.navigatestrategy;
 
 import maze.Maze;
 import maze.Navigator;

@@ -1,8 +1,8 @@
 package maze;
 
-import navigatestrategy.INavigateStrategy;
-import navigatestrategy.StrategyBy4;
-import navigatestrategy.StrategyBy8;
+import maze.navigatestrategy.INavigateStrategy;
+import maze.navigatestrategy.StrategyBy4;
+import maze.navigatestrategy.StrategyBy8;
 
 public class MazeTest {
 
